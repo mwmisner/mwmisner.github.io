@@ -1,0 +1,32 @@
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+pygments: true
+markdown: kramdown
+
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: mwmisner
+
+description: A Technically Personal Blog
+author:
+  name: Matt Misner
+  email: mwmisner@gmail.com
+  github: mwmisner
+  twitter: mwmisner
+  facebook: mwmisner
+  linkedin: mwmisner
+  bio: A Technically Personal Blog
+  email_md5: e94796d6c286ac0afb3b899be1526987
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+BASE_PATH:
