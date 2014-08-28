@@ -119,6 +119,7 @@ article.home h4,
 article.home h5,
 article.home h6 {
 	font-family: 'Roboto', sans-serif;
+  font-weight: bold;
 	color: #0391FF;
 }
 
