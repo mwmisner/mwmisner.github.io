@@ -4,7 +4,6 @@ title: Hello Again.
 categories: [general]
 tags: []
 fullview: true
-published:true
 ---
 
 I am once again going to be giving a blog a shot. This time I will be using a software called Jykell. Jykell is a blogging platform that relies on just plain text rather than a SQL database. It is a more technical version of a system like wordpress. 
