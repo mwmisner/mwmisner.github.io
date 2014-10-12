@@ -5,6 +5,10 @@ categories: [general]
 tags: []
 fullview: true
 ---
+
+This is a response to a link that my father posted on facebook. In quotes is eveything that he said and my response to them below.
+
+
 Please do not take this offensively, but I am very sick of this sentiment. Now is a time for action not more argument like this. I am happy to talk all day about the right way to solve the problem, but arguing the problem does not exist is irrational and irresponsible.
 
 “It is interesting that many popular beliefs are a complete myth. For example: "Those who do not believe (Global Warming/Climate Change) is an urgent issue are ignorant of the science".”
