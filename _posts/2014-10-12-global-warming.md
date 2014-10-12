@@ -13,11 +13,6 @@ Please do not take this offensively, but I am very sick of this sentiment. Now i
 
 “It is interesting that many popular beliefs are a complete myth. For example: "Those who do not believe (Global Warming/Climate Change) is an urgent issue are ignorant of the science".”
 
-Oh such a conversation about the popular beliefs that are a complete myth. I think we might have found a point of agreement! I will hold myself together and give you links for all of the arguments that you put forward that prove why they are invalid or irrelevant.
-
-Let me put forth my hypothesis:
-Those who do not believe Climate Change is an urgent issue are ignorant of 5th grade science and apparently incapable of simple search engine queries or reading the articles that they post.
-
 "Those who believe say the science is settled and we need to drastically change our way of life and our economy to stop this impending disaster. The Climate Change crusade is specifically couched in emotion and agenda not science. The skeptical among us are faced with a "when did you stop beating your wife?" question. The assumption of the correctness of the understanding to the problem outweighs the rational evaluation of the science and those who don't believe are guilty of something.
 The science is NEVER settled. The real danger is the backers of the political movement do not understand that for a Scientific Theory to be true the evidence to support it and must be consistent. Science demands that when valid conflicting evidence disputes the expected results of a theory, that theory must be modified or abandoned. A theory can only stand when it is the best explanation for what is going on. Unless it is propped up by those with some emotional or financial agenda."
 
@@ -89,7 +84,7 @@ Rationing a limited resource that is required for life is logical. I really do n
 [Reference](http://www.epa.gov/captrade/basic-info.html)
 
 Do a little research and find out what is really happening. 
-Can you do even the tiniest Google search to take a look at the other side? Some thing that has disturbed me is the scorched earth policy that many conservatives are taking (Some liberal are too, but they have been less common as of late.) The right is not right, the left is not right. The truth lies somewhere in the middle. Stop subscribing to this bullshit. Do the research for your self. Look at quotes and look at this from both perspectives.
+Some thing that has disturbed me is the scorched earth policy that many conservatives are taking (Some liberal are too, but they have been less common as of late.) The right is not right, the left is not right. The truth lies somewhere in the middle.
 
 Sometimes doing nothing is the right thing to do.
 Sometimes doing nothing leaves your Grand Children (Hey I am working on that part, give me a year or two or ten) with an unlivable planet.
